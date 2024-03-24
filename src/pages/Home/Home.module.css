@@ -1,0 +1,47 @@
+.container {
+    width: 100%;
+    min-height: 100vh;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .container p {
+    font-size: 48px;
+  }
+  
+  .container span {
+    color: #719301;
+    font-weight: bold;
+    font-size: 60px;
+  }
+  
+  .container img {
+    height: 400px;
+  }
+
+  .apresentacao {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: #44403e;
+  }
+  
+  .btn {
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+
+    background-color: #3b5e0d;
+    border: 0;
+    border-radius: 8px;
+
+    color: white;
+    font-weight: bold;
+
+    cursor: pointer;
+  }
+  
+  
+  

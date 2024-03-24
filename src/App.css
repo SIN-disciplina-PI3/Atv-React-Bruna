@@ -1,0 +1,28 @@
+.container {
+  width: 100%;
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.container p {
+  font-size: 48px;
+}
+
+.container span {
+  color: chocolate;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+.container img {
+  height: 400px;
+}
+
+/*
+=====================================================Sobre==================================
+*/
+
+

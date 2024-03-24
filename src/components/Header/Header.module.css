@@ -1,0 +1,36 @@
+header{
+    margin-bottom: 50px;
+    
+}
+
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: #3B5E0D;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    position: fixed;
+    top: 0;
+
+    box-shadow: 5px 5px 15px rgba(124, 124, 124, 0.315);
+}
+
+.header span{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header a{
+    text-decoration: none;
+    color: #fff;
+    padding-right: 20px;
+    font-size: 18px;
+}
+
+.header a:hover{
+    color: #FFD98C;
+}
